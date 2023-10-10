@@ -1,7 +1,7 @@
 # Hi This is Raul Suarez 👋
 
 ## Who am I?
-I am a passionate Full Stack Developer with a strong love for technology and a continuous thirst for learning. My journey into the world of programming has been a thrilling adventure, and I find myself captivated by it with every new concept I explore 😊.
+I am a passionate Full Stack Developer with a great passion for technology and a continuous thirst for learning. My journey into the world of programming has been a thrilling adventure, and I find myself captivated by it with every new concept I explore 😊.
 
 ### What Do I do?
 
@@ -30,6 +30,39 @@ This diverse tech stack empowers me to tackle a wide range of projects and chall
 
 email: raul.slastra@gmail.com
 
+##
+
+# Hola, soy Raúl Suárez 👋
+
+## ¿Quién soy?
+Soy un apasionado desarrollador Full Stack con una gran pasion por la tecnología y una sed continua de aprendizaje. Mi viaje al mundo de la programación ha sido una aventura emocionante y me cautiva con cada nuevo concepto que exploro 😊.
+
+### ¿Qué hago?
+
+Disfruto de los desafíos que conlleva el desarrollo de aplicaciones tanto en el lado del servidor como en la experiencia del usuario. Ya sea creando interfaces de usuario intuitivas o diseñando backends robustos, disfruto del enfoque holístico que ofrece el desarrollo Full Stack.
+
+### ¿Qué Tecnologías utilizo?
+
+Gracias a mi experiencia en Henry Bootcamp, tuve la oportunidad de sumergirme en una pila tecnológica versátil, que me equipó con las habilidades para crear proyectos de un extremo a otro. Aquí hay una lista de tecnologías en las que me he vuelto competente:
+
+- JavaScript
+-ReaccionarJS
+-NodoJS
+-ExpressJS
+-PostgreSQL
+- Secuela
+-HTML
+-CSS
+-ReduxJS
+-git
+  
+Esta pila tecnológica diversa me permite abordar una amplia gama de proyectos y desafíos en el mundo del desarrollo web.
+
+### Contactame
+
+[Linkedin](https://www.linkedin.com/in/raul-lastra-906754270/)
+
+email: raul.slastra@gmail.com
 <!--
 **RSuarezLastra/RSuarezLastra** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
