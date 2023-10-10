@@ -46,15 +46,15 @@ Disfruto de los desafíos que conlleva el desarrollo de aplicaciones tanto en el
 Gracias a mi experiencia en Henry Bootcamp, tuve la oportunidad de sumergirme en una pila tecnológica versátil, que me equipó con las habilidades para crear proyectos de un extremo a otro. Aquí hay una lista de tecnologías en las que me he vuelto competente:
 
 - JavaScript
--ReaccionarJS
--NodoJS
--ExpressJS
--PostgreSQL
-- Secuela
--HTML
--CSS
--ReduxJS
--git
+- React JS
+- Node JS
+- Express JS
+- PostgreSQL
+- Sequelize
+- HTML
+- CSS
+- Redux JS
+- Git
   
 Esta pila tecnológica diversa me permite abordar una amplia gama de proyectos y desafíos en el mundo del desarrollo web.
 
