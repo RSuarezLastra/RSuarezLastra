@@ -15,7 +15,7 @@ Thanks to my experience at Henry Bootcamp, I've had the opportunity to dive into
 - React JS
 - Node JS
 - Express JS
-- -MySql
+- MySql
 - PostgreSQL
 - Sequelize
 - HTML
@@ -50,7 +50,7 @@ Gracias a mi experiencia en Henry Bootcamp, tuve la oportunidad de sumergirme en
 - React JS
 - Node JS
 - Express JS
-- -MySQL
+- MySQL
 - PostgreSQL
 - Sequelize
 - HTML
