@@ -20,8 +20,8 @@ Thanks to my experience at Henry Bootcamp, I've had the opportunity to dive into
 - Sequelize
 - HTML
 - CSS
-- Redux JS
-- Git
+- Redux
+- Git / Github
   
 This diverse tech stack empowers me to tackle a wide range of projects and challenges in the world of web development.
 
@@ -55,8 +55,8 @@ Gracias a mi experiencia en Henry Bootcamp, tuve la oportunidad de sumergirme en
 - Sequelize
 - HTML
 - CSS
-- Redux JS
-- Git
+- Redux 
+- Git / Github
   
 Esta pila tecnológica diversa me permite abordar una amplia gama de proyectos y desafíos en el mundo del desarrollo web.
 
