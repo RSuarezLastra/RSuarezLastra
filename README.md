@@ -1,15 +1,15 @@
 # Hi This is Raul Suarez 👋
 
 ## Who am I?
-I am a passionate Full Stack Developer with a great passion for technology and a continuous thirst for learning. My journey into the world of programming has been a thrilling adventure, and I find myself captivated by it with every new concept I explore 😊.
+I'm a Full Stack Developer with one year of professional experience in creating technological solutions. Technology is my passion, and I enjoy constantly learning and tackling new challenges that allow me to grow as a professional and explore new ideas 😊.
 
 ### What Do I do?
 
-I thrive on the challenges that come with developing both the server-side and user experience of applications. Whether it's crafting intuitive user interfaces or architecting robust backends, I enjoy the holistic approach that Full Stack development offers.
+I specialize in developing complete applications, both on the server side and in user experience. I enjoy creating intuitive interfaces and designing robust backends, always striving to deliver efficient and well-integrated solutions.
 
 ### What Tecnoogies do I use?
 
-Thanks to my experience at Henry Bootcamp, I've had the opportunity to dive into a versatile tech stack, equipping me with the skills to build end-to-end projects. Here's a list of technologies I've become proficient in:
+Throughout my career, I’ve gained experience with a variety of technologies that enable me to handle end-to-end projects. Some of the key tools and technologies I work with include:
 
 - JavaScript
 - TypeScript
@@ -39,15 +39,15 @@ email: raul.slastra@gmail.com
 # Hola, soy Raúl Suárez 👋
 
 ## ¿Quién soy?
-Soy un apasionado desarrollador Full Stack con una gran pasion por la tecnología y una sed continua de aprendizaje. Mi viaje al mundo de la programación ha sido una aventura emocionante y me cautiva con cada nuevo concepto que exploro 😊.
+Soy un desarrollador Full Stack con un año de experiencia profesional en la creación de soluciones tecnológicas. La tecnología es mi pasión, y disfruto aprendiendo constantemente y enfrentando nuevos desafíos que me permiten crecer como profesional y explorar nuevas ideas 😊.
 
 ### ¿Qué hago?
 
-Disfruto de los desafíos que conlleva el desarrollo de aplicaciones tanto en el lado del servidor como en la experiencia del usuario. Ya sea creando interfaces de usuario intuitivas o diseñando backends robustos, disfruto del enfoque holístico que ofrece el desarrollo Full Stack.
+Me especializo en el desarrollo de aplicaciones completas, tanto en el lado del servidor como en la experiencia del usuario. Disfruto creando interfaces intuitivas y diseñando backends robustos, siempre buscando ofrecer soluciones eficientes y bien integradas.
 
 ### ¿Qué Tecnologías utilizo?
 
-Gracias a mi experiencia en Henry Bootcamp, tuve la oportunidad de sumergirme en una pila tecnológica versátil, que me equipó con las habilidades para crear proyectos de un extremo a otro. Aquí hay una lista de tecnologías en las que me he vuelto competente:
+Gracias a mi experiencia en Henry Bootcamp, tuve la oportunidad de sumergirme en una pila tecnológica versátil, que me equipó con las habilidades para crear proyectos de un extremo a otro. Aquí hay una lista de tecnologías en las que me he vuelto competente:A lo largo de mi carrera, he adquirido experiencia en una variedad de tecnologías que me permiten abordar proyectos de principio a fin. Algunas de las principales herramientas y tecnologías con las que trabajo incluyen:
 
 - JavaScript
 - TypeScript
