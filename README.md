@@ -12,11 +12,13 @@ I thrive on the challenges that come with developing both the server-side and us
 Thanks to my experience at Henry Bootcamp, I've had the opportunity to dive into a versatile tech stack, equipping me with the skills to build end-to-end projects. Here's a list of technologies I've become proficient in:
 
 - JavaScript
+- TypeScript
 - React JS
 - Node JS
 - Express JS
 - MySql
 - PostgreSQL
+- MySQL
 - Sequelize
 - HTML
 - CSS
@@ -47,15 +49,17 @@ Disfruto de los desafíos que conlleva el desarrollo de aplicaciones tanto en el
 Gracias a mi experiencia en Henry Bootcamp, tuve la oportunidad de sumergirme en una pila tecnológica versátil, que me equipó con las habilidades para crear proyectos de un extremo a otro. Aquí hay una lista de tecnologías en las que me he vuelto competente:
 
 - JavaScript
+- TypeScript
 - React JS
 - Node JS
 - Express JS
-- MySQL
+- MySql
 - PostgreSQL
+- MySQL
 - Sequelize
 - HTML
 - CSS
-- Redux 
+- Redux
 - Git / Github
   
 Esta pila tecnológica diversa me permite abordar una amplia gama de proyectos y desafíos en el mundo del desarrollo web.
