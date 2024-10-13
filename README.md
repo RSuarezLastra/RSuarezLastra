@@ -22,6 +22,7 @@ Thanks to my experience at Henry Bootcamp, I've had the opportunity to dive into
 - Sequelize
 - HTML
 - CSS
+- Tailwind CSS
 - Redux
 - Git / Github
   
@@ -59,6 +60,7 @@ Gracias a mi experiencia en Henry Bootcamp, tuve la oportunidad de sumergirme en
 - Sequelize
 - HTML
 - CSS
+- Tailwind CSS
 - Redux
 - Git / Github
   
