@@ -13,13 +13,15 @@ Throughout my career, I’ve gained experience with a variety of technologies th
 
 - JavaScript
 - TypeScript
-- React JS
+- React
+- Next 
 - Node JS
-- Express JS
+- Express
 - MySql
 - PostgreSQL
 - MySQL
 - Sequelize
+- Prisma
 - HTML
 - CSS
 - Tailwind CSS
@@ -51,13 +53,15 @@ Gracias a mi experiencia en Henry Bootcamp, tuve la oportunidad de sumergirme en
 
 - JavaScript
 - TypeScript
-- React JS
+- React
+- Next
 - Node JS
-- Express JS
+- Express
 - MySql
 - PostgreSQL
 - MySQL
 - Sequelize
+- Prisma
 - HTML
 - CSS
 - Tailwind CSS
